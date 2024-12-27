@@ -9,7 +9,7 @@ SCALE AI | Computer Science Expert (Jan 2024 – June 2024)
 
 ### EDUCATION 
 ---------------------------------------------------------
-Cleveland State University, Bachelor of Science in Computer Science                   August 2021 – May 2025
+Cleveland State University, Bachelor of Science in Computer Science (August 2021 – May 2025)
 - Key Coursework: Introduction to Programming, Object Oriented Programming, Data Structures and Algorithms
 - Member of Association Computing Machinery, Chess Club, & Blockchain Club
 
@@ -20,12 +20,12 @@ Google, Foundations of Cybersecurity,Certificate
 
 ### PROJECTS
 ---------------------------------------------------------
-WebIntelliScrape                                                                     September 2024 – Present
+WebIntelliScrape (September 2024 – Present)
 - Developed an AI web scraper in Python to dynamically extract data from user-defined URLs
 - Utilized Selenium and BeautifulSoup for advanced DOM content analysis and retrieval
 - Supported applications like market analysis and data collection through AI-driven retrieval
 
-AI Pong using NEAT Algorithm                                                        February 2024 – May 2024
+AI Pong using NEAT Algorithm (February 2024 – May 2024)
 - Developed an AI-driven Pong game environment in Python, incorporating interaction and AI player training
 - Utilized the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to establish a foundation for machine
 learning and adaptive AI behavior

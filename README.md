@@ -27,9 +27,8 @@ WebIntelliScrape (September 2024 – Present)
 
 AI Pong using NEAT Algorithm (February 2024 – May 2024)
 - Developed an AI-driven Pong game environment in Python, incorporating interaction and AI player training
-- Utilized the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to establish a foundation for machine
-learning and adaptive AI behavior
-Completed performance assessments to evaluate AI training effectiveness and graphical integration
+- Utilized the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to establish a foundation for AI behavior
+- Completed performance assessments to evaluate AI training effectiveness and graphical integration
 
 ### SKILLS & INTERESTS
 ---------------------------------------------------------
